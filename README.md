@@ -32,7 +32,7 @@ The focus is on predicting the 5880gpm geopotential height line, which approxima
 
 Due to file size limitations on GitHub, the full dataset is hosted on Google Drive:
 
-🔗 [Download the dataset from Google Drive](https://drive.google.com/drive/folders/XXXXXXXXXXXX?usp=sharing)
+🔗 [Download the dataset from Google Drive](https://drive.google.com/drive/u/0/folders/10oi15WS6di_tycivWf58LBTeFuGfWwdW)
 
 ### Download includes:
 
