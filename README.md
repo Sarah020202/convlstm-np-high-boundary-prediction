@@ -1,4 +1,4 @@
-# ConvLSTM-Based Prediction of the North Pacific High Boundary
+# Spatiotemporal Prediction of the Western Pacific Subtropical High Boundary Using ConvLSTM 
 
 This repository contains deep learning models to predict the 5880gpm contour of the North Pacific High using ERA5 reanalysis data. The models focus on capturing spatiotemporal dynamics using ConvLSTM, Conv3D, and UNet-GRU architectures.
 
