@@ -4,16 +4,12 @@ This repository contains deep learning models to predict the 5880gpm contour of 
 
 ## 📁 Structure
 notebooks/
+
 ├── ConvLSTM_all_features+feature_important.ipynb
-
 ├── ConvLSTM_only_z.ipynb
-
 ├── ConvLSTM_5var_unadjusted.ipynb
-
 ├── ConvLSTM_5var_adjusted.ipynb
-
 ├── Conv3D_5var_unadjusted.ipynb
-
 └── UNet-GRU_5var_unadjusted.ipynb
 
 
@@ -42,24 +38,16 @@ Due to file size limitations on GitHub, the full dataset is hosted on Google Dri
 ### Download includes:
 
 data/
+
 ├── data_stream-oper_stepType-instant.nc
-
 ├── X_full_z.npy
-
 ├── y_full_z.npy
-
 ├── valid_times_full_z.npy
-
 ├── X_full_(z,t,u,v,q).npy
-
 ├── y_full_(z,t,u,v,q).npy
-
 ├── valid_times__full_(z,t,u,v,q).npy
-
 ├── X_part1.npy ~ X_part4.npy
-
 ├── y_part1.npy ~ y_part4.npy
-
 └── valid_times_part1.npy ~ valid_times_part4.npy
 
 
